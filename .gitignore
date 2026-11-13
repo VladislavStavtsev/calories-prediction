@@ -1,0 +1,9 @@
+# данные и сабмиты не коммитим
+*.csv
+catboost_info/
+
+# служебное
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.venv/
