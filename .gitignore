@@ -7,3 +7,6 @@ catboost_info/
 __pycache__/
 .DS_Store
 .venv/
+
+venv/
+data/
