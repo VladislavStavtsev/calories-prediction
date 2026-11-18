@@ -5,3 +5,5 @@ catboost
 matplotlib
 seaborn
 jupyter
+fastapi
+uvicorn
